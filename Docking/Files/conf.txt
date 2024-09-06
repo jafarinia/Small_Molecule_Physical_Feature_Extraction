@@ -1,0 +1,10 @@
+receptor = 5i96_protein_only.pdbqt
+ligand = 5i96_ligand_only.pdbqt
+
+center_x = -2.000
+center_y = 13.806
+center_z = -28.361
+
+size_x = 12
+size_y = 22
+size_z = 22

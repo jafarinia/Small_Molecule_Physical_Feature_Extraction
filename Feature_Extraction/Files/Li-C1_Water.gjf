@@ -1,0 +1,10 @@
+%chk=C:\Users\user01\Desktop\Formamide\Li-C1_Water.chk
+# opt freq b3lyp/6-31+g(d) scrf=(cpcm,solvent=water) geom=connectivity
+
+M0001
+
+1 1
+ Li                 0.00000000    0.00000000    0.00000000
+
+ 1
+
